@@ -1,6 +1,6 @@
 [
  {
-   "year": "1-dic-19",
+   "year": "1-dec-19",
    "n": 22452,
    "name": "Andalucia",
    "tipo": "Robos Domicilios"
@@ -24,7 +24,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-20",
+   "year": "1-dec-20",
    "n": 17587,
    "name": "Andalucia",
    "tipo": "Robos Domicilios"
@@ -48,7 +48,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-21",
+   "year": "1-dec-21",
    "n": 16381,
    "name": "Andalucia",
    "tipo": "Robos Domicilios"
@@ -60,7 +60,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-19",
+   "year": "1-dec-19",
    "n": 33763,
    "name": "Cataluna",
    "tipo": "Robos Domicilios"
@@ -84,7 +84,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-20",
+   "year": "1-dec-20",
    "n": 24907,
    "name": "Cataluna",
    "tipo": "Robos Domicilios"
@@ -108,7 +108,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-21",
+   "year": "1-dec-21",
    "n": 22852,
    "name": "Cataluna",
    "tipo": "Robos Domicilios"
@@ -120,7 +120,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-19",
+   "year": "1-dec-19",
    "n": 19832,
    "name": "Comunidad Valenciana",
    "tipo": "Robos Domicilios"
@@ -144,7 +144,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-20",
+   "year": "1-dec-20",
    "n": 15187,
    "name": "Comunidad Valenciana",
    "tipo": "Robos Domicilios"
@@ -168,7 +168,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-21",
+   "year": "1-dec-21",
    "n": 15920,
    "name": "Comunidad Valenciana",
    "tipo": "Robos Domicilios"
@@ -180,7 +180,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-19",
+   "year": "1-dec-19",
    "n": 18239,
    "name": "Madrid",
    "tipo": "Robos Domicilios"
@@ -204,7 +204,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-20",
+   "year": "1-dec-20",
    "n": 12262,
    "name": "Madrid",
    "tipo": "Robos Domicilios"
@@ -228,7 +228,7 @@
    "tipo": "Robos Domicilios"
  },
  {
-   "year": "1-dic-21",
+   "year": "1-dec-21",
    "n": 12381,
    "name": "Madrid",
    "tipo": "Robos Domicilios"
