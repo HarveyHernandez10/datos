@@ -1,0 +1,34 @@
+[
+  {
+    "Crimen": "Hurtos",
+    "Frecuencia": 2218250
+  },
+  {
+    "Crimen": "Robos con fuerza en domicilios, establecimientos y otras instalaciones",
+    "Frecuencia": 452339
+  },
+  {
+    "Crimen": "Robos con violencia e intimidacion",
+    "Frecuencia": 260638
+  },
+  {
+    "Crimen": "Sustracciones de vehiculos",
+    "Frecuencia": 130390
+  },
+  {
+    "Crimen": "Trafico de drogas",
+    "Frecuencia": 76685
+  },
+  {
+    "Crimen": "Agresion sexual con penetracion",
+    "Frecuencia": 7474
+  },
+  {
+    "Crimen": "Homicidios dolosos y asesinatos consumados",
+    "Frecuencia": 1172
+  },
+  {
+    "Crimen": "Secuestro",
+    "Frecuencia": 326
+  }
+]
